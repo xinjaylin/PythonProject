@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'woyoulaile laodi')
     print(f'yigiaogiao')
+    print(f'giaogiao')
 
 
 # Press the green button in the gutter to run the script.
